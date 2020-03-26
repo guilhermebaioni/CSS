@@ -1,0 +1,96 @@
+#folha_sao_paulo{
+    
+    text-align: center;
+    background-color: black;
+
+
+}
+
+#logo{
+    
+    width: 100px;
+    height: 100px;
+    margin-right: 1800px;
+}
+
+
+
+#titulo{
+    
+    font-size: 50px;
+    color: white;
+}
+
+
+#subtitulo{
+    
+    font-size: 22px;
+    color: white;
+    margin-right: 440px;
+        
+}
+
+
+
+#conteudo{
+    
+    text-align: justify;
+    margin-right: 550px;
+    margin-left: 300px;
+    font-size: 26px;
+    color: yellow;
+    
+}
+
+#grafico{
+   
+    width: 1000px;
+    height: 700px;  
+}
+
+#textarea{
+    
+    resize: none;
+    width: 500px;
+    height: 200px;
+    margin-right: 300px;
+}
+
+#botao{
+    
+    margin-left: inherit;
+    
+}
+
+#pcomentario{
+    
+    font-size: 35px;
+    color: yellow;
+    margin-right: 680px;
+    margin-bottom: 300x;
+    
+}
+
+
+#pagina_comentarios{
+    
+ background-color: black;
+ background-image: url(img/gosling-clapping.gif) 
+    
+    
+}
+
+#hcomentario{
+    
+    margin-top: 400px;
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+}
+
+
+
+
+
+
+
